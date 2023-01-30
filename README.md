@@ -1,8 +1,8 @@
 <a href="https://www.linkedin.com/in/andradeviniciusoliv/" target="_blank"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4985&pause=1000&color=C1936B&vCenter=true&width=435&lines=Oi!+Meu+nome+é+Vinicius+Andrade+:)" alt="Typing SVG" /></a>
 <div align="left">
   <a href="https://github.com/andvinicius">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=andvinicius&show_icons=true&theme=moltack&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andvinicius&layout=compact&langs_count=7&theme=moltack"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=andvinicius&show_icons=true&theme=moltack&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andvinicius&layout=compact&langs_count=7&theme=moltack"/>
 </div>
 
 
